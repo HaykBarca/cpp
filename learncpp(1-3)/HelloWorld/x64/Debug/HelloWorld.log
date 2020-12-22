@@ -1,0 +1,21 @@
+﻿  arguments-parameters.cpp
+  calculator-functions.cpp
+  calculator.cpp
+  decs-and-defs.cpp
+  first-program.cpp
+  functions.cpp
+  HelloWorld.cpp
+  libs.cpp
+  mult-files-header.cpp
+  multi-file-2.cpp
+  multi-file.cpp
+  multi-files-header-2.cpp
+  operators-expressions.cpp
+  preprocessor-directives.cpp
+  quiz-functions-op.cpp
+  quiz-functions.cpp
+  scope.cpp
+  second-program.cpp
+  variables-assignement.cpp
+  Generating Code...
+  HelloWorld.vcxproj -> C:\Users\Hayk\Desktop\Development\CPP\HelloWorld\x64\Debug\HelloWorld.exe
