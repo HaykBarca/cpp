@@ -36,8 +36,16 @@
     <ClCompile Include="logical-cpp-operators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="bit-manipulation.cpp">
+    <ClCompile Include="compound-statements.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="user-defined-namespaces.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="user-defined-namespaces.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,2 +1,4 @@
-﻿  logical-cpp-operators.cpp
-  learncpp(4-).vcxproj -> \\Desktop-prshqrs\cpp\learncpp(4-)\x64\Debug\learncpp(4-).exe
+﻿  user-defined-namespaces.cpp
+C:\Users\Hayk\Desktop\Development\CPP\learncpp(4-)\learncpp(4-)\user-defined-namespaces.cpp(10,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hayk\Desktop\Development\CPP\learncpp(4-)\learncpp(4-)\user-defined-namespaces.cpp(19,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  learncpp(4-).vcxproj -> C:\Users\Hayk\Desktop\Development\CPP\learncpp(4-)\x64\Debug\learncpp(4-).exe

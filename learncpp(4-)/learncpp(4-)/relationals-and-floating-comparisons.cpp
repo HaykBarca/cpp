@@ -1,6 +1,6 @@
 #include <iostream>
 
-int g_main()
+int h_main()
 {
 	int x{ 6 };
 	if (x > 5)
